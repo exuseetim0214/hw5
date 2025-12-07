@@ -3,6 +3,7 @@
 
 #ifndef RECCHECK
 #include <set>
+#include <array>
 #include <string>
 #endif
 
